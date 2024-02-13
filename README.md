@@ -1,29 +1,15 @@
-# README #
+# vvconverter <a href='https://github.com/vusaverse/vvconverter'><img src="man/figures/hex-vvconverter.png" style="float:right; height:200px;" height="200" align="right"/></a>
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+  <!-- badges: start -->
+  [![R-CMD-check](https://github.com/vusaverse/vvconverter/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/vusaverse/vvconverter/actions/workflows/R-CMD-check.yaml)
+  <!-- badges: end -->
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+`vvconverter` is an R package that provides a set of functions for data transformations. The transformations are performed on character and numeric data. The functions are particularly focused around the academic year, reflecting the package's scope within Student Analytics.
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+## Contribution Guidelines
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Contributions to `vvconverter` are welcome. The standard GitHub process should be followed for contributing: fork the repository, make changes, and submit a pull request.
