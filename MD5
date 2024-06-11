@@ -1,4 +1,4 @@
-2a58204a6f134d33807a8e7d619b47df *DESCRIPTION
+06fd653a9e719c52eb9b646b6844b9d6 *DESCRIPTION
 651433895038f5be4bf1964479c662e0 *LICENSE
 22759955366e5cd2794122f908c97519 *NAMESPACE
 510c1c4073d6880c5b8913626582aee4 *R/Academic_year.R
@@ -17,7 +17,7 @@ dce067b30ef3f06300976220e5227daa *R/test_yes_no.R
 a59808afaef014edae96f312c7ade9d2 *R/transform_logical_yes_no.R
 8c764faf64a7ac40fcf8c9b7ce3192cd *R/trim.R
 cf794928715019cf81bd51d467156178 *R/utils-pipe.R
-d606cf2f8e3c32e709051516e7168477 *README.md
+137f85166e55c204fceb361f3c20d461 *README.md
 d9dee562fee3336bf504972e3896de24 *man/academic_year.Rd
 8e67f9b6f7205a682caba999b44de756 *man/clean_multiple_underscores.Rd
 b9249000d4209e61c8722f556b949d42 *man/destring.Rd
@@ -42,5 +42,5 @@ fa965bf66b58c224aa23d13052bcb22f *man/translate_yes_no.Rd
 a3997a9577d37eed0c7152d1bc67bbdc *man/trim.Rd
 b765cbf464c40a31fbe5f6c9e2263708 *tests/testthat.R
 59da85e66efd1d1cd3c704cbadae2e1f *tests/testthat/test-month_name.R
-efd13ee314e87c2da27a38fd95ca8991 *tests/testthat/test-test-yes-no.R
+f56e1596dc08790342fa9dfce40d6a52 *tests/testthat/test-test-yes-no.R
 d4d9aff815527262800ad15163d34136 *tests/testthat/test-transform-logical-yes-no.R
