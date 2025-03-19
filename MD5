@@ -1,4 +1,4 @@
-06fd653a9e719c52eb9b646b6844b9d6 *DESCRIPTION
+0c42159310d00ebed801e47043b855da *DESCRIPTION
 651433895038f5be4bf1964479c662e0 *LICENSE
 22759955366e5cd2794122f908c97519 *NAMESPACE
 510c1c4073d6880c5b8913626582aee4 *R/Academic_year.R
@@ -11,10 +11,10 @@ df2736803e8fb111a464dce7f0611db0 *R/destring.R
 5a6eb57dda6570b70722908e7b82da23 *R/group_summary.R
 d5cb4da2da24b5a5622c3fb7de5e591f *R/group_summary_rank.R
 e6b8f5750a816cf5cb3edebaada9f4c7 *R/median_top_10.R
-9774d805bf6598a09bee98e8f91b7f8e *R/month_name.R
+1f2acce9c760a468ec9a41b290c120ec *R/month_name.R
 11dc701b17fd47d37c882653991587eb *R/str_replace_all_in_file.R
-dce067b30ef3f06300976220e5227daa *R/test_yes_no.R
-a59808afaef014edae96f312c7ade9d2 *R/transform_logical_yes_no.R
+2405f44b467356e7ba54725ffb40dd73 *R/test_yes_no.R
+6289b097605978819fd485754ff436ea *R/transform_logical_yes_no.R
 8c764faf64a7ac40fcf8c9b7ce3192cd *R/trim.R
 cf794928715019cf81bd51d467156178 *R/utils-pipe.R
 137f85166e55c204fceb361f3c20d461 *README.md
@@ -41,6 +41,4 @@ a977c5f5bd9d3242291aa9a94092da41 *man/rtrim.Rd
 fa965bf66b58c224aa23d13052bcb22f *man/translate_yes_no.Rd
 a3997a9577d37eed0c7152d1bc67bbdc *man/trim.Rd
 b765cbf464c40a31fbe5f6c9e2263708 *tests/testthat.R
-59da85e66efd1d1cd3c704cbadae2e1f *tests/testthat/test-month_name.R
-f56e1596dc08790342fa9dfce40d6a52 *tests/testthat/test-test-yes-no.R
-d4d9aff815527262800ad15163d34136 *tests/testthat/test-transform-logical-yes-no.R
+76cfad1f9b1b698743870ebbe3b613b8 *tests/testthat/test_clean_multiple_underscores.R
